@@ -1,0 +1,8 @@
+
+
+								BUI QUOC HUY
+								   LAB7 C++
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Cho mảng 1 chiều. Viết chương trình thực hiện các chức năng: nhập mảng, xuất mảng, tìm phần tử lớn nhất trong mảng, sắp xếp mảng theo thứ tự tăng dần.
+2. Cho mảng một chiều các số nguyên gồm n phần tử 
+3. Cho mảng một chiều các số thực gồm n phần tử (Bài này từ từ commit sang số thực sau, debug khá đau não)
